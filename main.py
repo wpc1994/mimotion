@@ -3,7 +3,7 @@ import requests, time, datetime, re,sys, json, random
 
 # 设置开始
 # 用户名（格式为 13800138000）
-
+#zengjiaxiugaicishu 
 # 酷推skey和server酱sckey和企业微信设置，只用填一个其它留空即可
 skey = sys.argv[3]
 # 推送server酱
